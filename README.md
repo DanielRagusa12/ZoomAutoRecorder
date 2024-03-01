@@ -21,7 +21,7 @@ Before using this script, ensure that you have the following:
 1. Clone or download the repository to your local machine.
 
    ```bash
-   git clone https://github.com/DanielRagusa12/obs-zoom-recorder.git
+   git clone https://github.com/DanielRagusa12/ZoomAutoRecorder.git
    ```
 
 2. Navigate to the project directory.
